@@ -7,8 +7,7 @@ For database structure, I made every pixel an database object as the sample belo
     {
       "color": "FFFFFF",
       "x": 0,
-      "y": 0,
-      "__v": 0
+      "y": 0
     }
 
 And type your `MONGOURI` to the `.env` file.
